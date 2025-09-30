@@ -1,7 +1,7 @@
 # donut_clothing
 
 - Blips staan **aan** en gebruiken Sprite 73 (kledingwinkel).
-- Jouw 15 locaties zijn toegevoegd aan `Config.Shops`.
+- 15 locaties in `Config.Shops`.
 - ox_target zones per shop; zonder ox_target gebruikt hij markers + E prompt.
 - Omkleed-animatie met progress, aanpasbaar in `Config.DressingAnimation`.
 
@@ -11,5 +11,4 @@
    - Open het menu via /clothingshop
 
 3. **Installeer**
-
    - Voeg het SQL Bestand toe aan je database
